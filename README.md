@@ -11,7 +11,7 @@
 ## Download
 
 ```sh
-git clone https://github.com/eucehsar/First-contact-HTML-CSS.git
+git clone https://github.com/eucesar/First-contact-HTML-CSS.git
 ```
 
 ## Cesar
