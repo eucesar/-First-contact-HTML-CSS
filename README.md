@@ -5,7 +5,7 @@
   <img align="center" alt="Cesar-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"> 
 </p>
 
-> 🌱 My first steps with HTML and CSS by Alura, projects made during classes.
+> 🌱 My first steps with HTML and CSS by Alura, projects made during classes, there are five sites set up in total.
 
 
 ## Download
