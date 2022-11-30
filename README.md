@@ -6,7 +6,7 @@
 </p>
 
 > 🌱 My first steps with HTML and CSS by Alura, projects made during classes, there are five sites set up in total,
-> 🌱 I left the URL of my favorite project I made during the course.
+<p> 🌱 I left the URL of my favorite project I made during the course. </p>
 
 
 ## Download
