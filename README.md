@@ -2,6 +2,7 @@
 <p>
   <img align="center" alt="Cesar-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Cesar-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Cesar-Java" height="30" width="40" src="https://icons8.com.br/icon/gYCTehfTlYk5/logotipo-javascript">
   </a>
 </p>
 
